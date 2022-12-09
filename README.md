@@ -22,7 +22,7 @@ Unocss({
 
 ## Config
 ```ts
-remToPxPreset(options: PxToRemOptions = {})
+pxToRemPreset(options: PxToRemOptions = {})
 
 interface PxToRemOptions {
   /**
