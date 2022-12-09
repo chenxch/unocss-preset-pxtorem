@@ -11,12 +11,10 @@ npm i -D unocss-preset-px-to-rem
 ```
 
 ```ts
-import presetUno from '@unocss/preset-uno'
-import presetPxToRem from '@unocss/preset-px-to-rem'
+import presetPxToRem from 'unocss-preset-px-to-rem'
 
 Unocss({
   presets: [
-    presetUno(),
     presetPxToRem()
   ],
 })
