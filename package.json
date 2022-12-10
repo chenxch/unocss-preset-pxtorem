@@ -1,16 +1,16 @@
 {
-  "name": "unocss-preset-px-to-rem",
+  "name": "unocss-preset-pxtorem",
   "version": "0.0.1",
   "description": "Convert all px to rem in utils",
   "author": "Xc <124118265@qq.com>",
   "license": "MIT",
-  "homepage": "https://github.com/chenxch/unocss-preset-px-to-rem#readme",
+  "homepage": "https://github.com/chenxch/unocss-preset-pxtorem#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chenxch/unocss-preset-px-to-rem.git"
+    "url": "git+https://github.com/chenxch/unocss-preset-pxtorem.git"
   },
   "bugs": {
-    "url": "https://github.com/chenxch/unocss-preset-px-to-rem/issues"
+    "url": "https://github.com/chenxch/unocss-preset-pxtorem/issues"
   },
   "keywords": [
     "unocss",

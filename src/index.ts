@@ -15,14 +15,14 @@ export interface PxToRemOptions {
    unitPrecision?: number
 }
 
-export default function remToPxPreset(options: PxToRemOptions = {}): Preset {
+export default function pxToRemPreset(options: PxToRemOptions = {}): Preset {
   const {
     rootValue = 75,
     unitPrecision = 5,
   } = options
 
   return {
-    name: '@unocss/preset-px-to-rem',
+    name: 'unocss-preset-pxtorem',
     postprocess: (util) => {
       util.entries.forEach((i) => {
         const value = i[1]

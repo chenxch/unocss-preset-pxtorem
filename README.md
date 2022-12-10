@@ -1,4 +1,4 @@
-# unocss-preset-px-to-rem
+# unocss-preset-pxtorem
 
 Coverts px to rem for utils.
 
@@ -7,11 +7,11 @@ Support simultaneous use with `vant`.
 ## Installation
 
 ```bash
-npm i -D unocss-preset-px-to-rem
+npm i -D unocss-preset-pxtorem
 ```
 
 ```ts
-import presetPxToRem from 'unocss-preset-px-to-rem'
+import presetPxToRem from 'unocss-preset-pxtorem'
 
 Unocss({
   presets: [
